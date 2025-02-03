@@ -12,8 +12,8 @@ const { version } = require("./package.json")
 
 
 //======= Change settings =======\\
-global.owner = "2347036214381"
-global.botname = "αrch md"
+global.owner = "2349063973854"
+global.botname = "ronee md"
 global.ownername = ""
 global.simbol = "♘"
 global.typeMenu = 'v1' //don't change 
